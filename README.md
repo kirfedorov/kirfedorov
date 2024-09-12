@@ -15,6 +15,10 @@
 - [ ] Основы SQL
 - [ ] Командная строка Bash
 - [x] Figma Pro
+- [ ] 
+### Дополнительные навыки
+- [x] Solidowrks / 3D modeling
+- [x] Mastercam software tools for CAD/CAM
 
 <!--
 **kirfedorov/kirfedorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
