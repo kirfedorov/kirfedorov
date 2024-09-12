@@ -16,7 +16,7 @@
 - [ ] Bash Command Line
 - [x] Figma Pro
 
-<-- ### Additional skills
+<!-- ### Additional skills
 - [x] Solidowrks / 3D modeling
 - [x] Mastercam software tools for CAD/CAM
 -->
