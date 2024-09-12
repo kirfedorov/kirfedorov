@@ -1,4 +1,4 @@
-<h1 align="center">Привет всем,  меня зовут <a href="" target="_blank">Кирилл Федоров</a> 
+<h1 align="center" style="background: #000; color:#fff;">Привет всем,  меня зовут <a href="" target="_blank">Кирилл Федоров</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">Frontend направление.</h3>
 <span>Более 3 лет я изучаю frontend направление, изучаю логику строительства сайтов на стороне браузера.</span>
