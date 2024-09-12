@@ -1,6 +1,6 @@
 <h1 align="center" >Hello, my name is <a href="" target="_blank">Kirill Fedorov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="left">Frontend направление.</h3>
+<h3 align="left"> Frontend Developer.</h3>
 <h4 align="left">For more than 3 years I have been studying the frontend direction, studying the logic of building websites on the browser side.</h4>
 
 ### Profession Frontend developer PRO
