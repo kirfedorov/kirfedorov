@@ -3,7 +3,8 @@
 <h3 align="left">Frontend направление.</h3>
 <span align="left">Более 3 лет я изучаю frontend направление, изучаю логику строительства сайтов на стороне браузера.</span>
 
-### Профессия Frontend-разработчик PRO
+### Мое обучение строится последующим алгоритмам. 
+Профессия Frontend-разработчик PRO
 - [x] Веб-вёрстка "Базовый уровень"
 - [x] Javascript "Базовый урвоень"
 - [ ] TypeScript
@@ -14,7 +15,7 @@
 - [ ] Система контроля версий Git
 - [ ] Основы SQL
 - [ ] Командная строка Bash
-- [ ] Figma Pro
+- [x] Figma Pro
 
 <!--
 **kirfedorov/kirfedorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
