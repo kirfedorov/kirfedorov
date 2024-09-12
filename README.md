@@ -6,14 +6,14 @@
 ### Profession Frontend developer PRO
 - [x] Web layout "Basic level"
 - [x] Javascript "Basic level"
-- [x] TypeScript
+- [ ] TypeScript
 - [x] React.js
-- [x] Node.js
-- [x] Web layout "Advanced level"
-- [x] Javascript "Advanced"
+- [ ] Node.js
+- [ ] Web layout "Advanced level"
+- [ ] Javascript "Advanced"
 - [x] Git version control system
-- [x] SQL Basics
-- [x] Bash Command Line
+- [ ] SQL Basics
+- [ ] Bash Command Line
 - [x] Figma Pro
 
 ### Additional skills
