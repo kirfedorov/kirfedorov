@@ -3,20 +3,20 @@
 <h3 align="left">Frontend направление.</h3>
 <span align="left">Более 3 лет я изучаю frontend направление, изучаю логику строительства сайтов на стороне браузера.</span>
 
-### Профессия Frontend-разработчик PRO
-- [x] Веб-вёрстка "Базовый уровень"
-- [x] Javascript "Базовый урвоень"
-- [ ] TypeScript
+### Profession Frontend developer PRO
+- [x] Web layout "Basic level"
+- [x] Javascript "Basic level"
+- [x] TypeScript
 - [x] React.js
-- [ ] Node.js
-- [ ] Веб-вёрстка "Продвинутый уровень"
-- [ ] Javascript "Продвинутый уровень"
-- [ ] Система контроля версий Git
-- [ ] Основы SQL
-- [ ] Командная строка Bash
+- [x] Node.js
+- [ ] Web layout "Advanced level"
+- [ ] Javascript "Advanced"
+- [x] Git version control system
+- [ ] SQL Basics
+- [ ] Bash Command Line
 - [x] Figma Pro
-- [ ] 
-### Дополнительные навыки
+
+### Additional skills
 - [x] Solidowrks / 3D modeling
 - [x] Mastercam software tools for CAD/CAM
 
