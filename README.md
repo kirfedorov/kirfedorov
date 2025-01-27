@@ -18,6 +18,12 @@
 - [x] Draw.io  diagramming/whiteboarding visualization application.
 - [x] Figma Pro
 
+### React Additional parts
+    My favorite Npm parts JavaScript development useful tools for developers.
+    - Frontend
+    - Backend parts:
+      "axios","bcryptjs","cors","cross-env","express","express-validator","jsonwebtoken","mongodb","mongoose","node-cron","node-telegram-bot-api","nodemon"
+
 <!-- ### Additional skills
 - [x] Solidowrks / 3D modeling
 - [x] Mastercam software tools for CAD/CAM
