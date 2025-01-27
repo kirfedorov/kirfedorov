@@ -18,29 +18,33 @@
 - [x] Draw.io  diagramming/whiteboarding visualization application.
 - [x] Figma Pro
 
-<!-- ### React Additional parts
+### React Additional parts
     My favorite Npm parts JavaScript development useful tools for developers.
     - Frontend
     - Backend parts:
       "axios","bcryptjs","cors","cross-env","express","express-validator","jsonwebtoken","mongodb","mongoose","node-cron","node-telegram-bot-api","nodemon"
--->
 
-<!-- ### Additional skills
+### Additional skills
 - [x] Solidowrks / 3D modeling
-- [x] Mastercam software tools for CAD/CAM
--->
+- [x] Mastercam / Cad EDM Hotwire
+- [X] Cinema4D 
+- [X] KeyShot 3d rendering
+- [X] CoralDraw
+- [X] Adobe Ilustrator   
+- [X] Adobe Primer
+- [X] Adobe After Effect    
 
-<!--
+
 **kirfedorov/kirfedorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Co...
+- 🌱 I’m currently learning React and Node.js.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🤔 I’m looking for help with Coding exercises to improve my React skills.
+- 💬 Ask me about React npm.
+- 📫 How to reach me: kir_fedorov@mail.ru
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
