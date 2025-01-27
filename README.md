@@ -8,12 +8,14 @@
 - [x] Javascript "Basic level"
 - [ ] TypeScript
 - [x] React.js
-- [ ] Node.js
+- [x] Node.js
 - [ ] Web layout "Advanced level"
 - [ ] Javascript "Advanced"
 - [x] Git version control system
+- [x] Mongo DataBase
 - [ ] SQL Basics
 - [ ] Bash Command Line
+- [x] Draw.io  diagramming/whiteboarding visualization application.
 - [x] Figma Pro
 
 <!-- ### Additional skills
